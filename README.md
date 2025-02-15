@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I'm Your Name </h1>
 
-<!--
-**tossinramen/tossinramen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Quick Facts
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning: ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-black)
+- 🎮 Hobbies: Coding, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting
+- 📫 Let's connect! Email me at [tahsinhd@gmail.com](mailto:tahsinhd@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-blue) 
+![Java](https://img.shields.io/badge/-Java-yellow) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-red)
+![CSS](https://img.shields.io/badge/-CSS3-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
+![Docker](https://img.shields.io/badge/-Docker-blue)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange)
+![Next.js](https://img.shields.io/badge/-Next.js-black)
+![Golang](https://img.shields.io/badge/-Golang-blue)
+![R](https://img.shields.io/badge/-R-276DC3)
+![React](https://img.shields.io/badge/-React-61DAFB)
+---
+
+## 🔗 Related Links:
+- [LinkedIn](https://www.linkedin.com/in/tahsin-rahman-/)
