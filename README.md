@@ -15,6 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![HTML5](https://img.shields.io/badge/-HTML5-red)
 ![CSS](https://img.shields.io/badge/-CSS3-blue)
+![C](https://img.shields.io/badge/-C-blue)
+![C++](https://img.shields.io/badge/-C++-00599C)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen)
 ![Docker](https://img.shields.io/badge/-Docker-blue)
