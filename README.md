@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Your Name </h1>
 
-## 🚀 Quick Facts
+## 🚀 Quick Intro
 
 - 🌱 I'm currently learning: ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-black)
 - 🎮 Hobbies: Coding, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting
