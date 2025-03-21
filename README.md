@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Tahsin </h1>
+<h1 align="center"> Tahsin Rahman </h1>
 
 ## 🚀 Quick Intro
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages:
 
 ![Python](https://img.shields.io/badge/-Python-blue) 
 ![Java](https://img.shields.io/badge/-Java-yellow) 
