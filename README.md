@@ -2,9 +2,9 @@
 
 ## 🚀 Quick Intro
 
-- 🌱 I'm currently learning: ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- 🌱 Learning: ![React](https://img.shields.io/badge/-React-61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 - 🎮 Hobbies: Coding, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting
-- 📫 Let's connect! Email me at [tahsinhd@gmail.com](mailto:tahsinhd@gmail.com)
+- 📫 Contact me @ [tahsinhd@gmail.com](mailto:tahsinhd@gmail.com)
 
 ---
 
