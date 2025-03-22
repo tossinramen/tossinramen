@@ -8,7 +8,8 @@
 🎮 Hobbies:  
 Coding, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting  
 
-📫 Contact me @ [tahsinhd@gmail.com](mailto:tahsinhd@gmail.com)  
+📫 Contact:
+[tahsinhd@gmail.com](mailto:tahsinhd@gmail.com)  
 
 ---
 
