@@ -13,7 +13,7 @@ Coding, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting
 
 ---
 
-## 🛠️ Languages:
+## 📚 Languages:
 
 ![Python](https://img.shields.io/badge/-Python-blue) 
 ![Java](https://img.shields.io/badge/-Java-yellow) 
