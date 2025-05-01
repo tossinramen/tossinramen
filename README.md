@@ -30,6 +30,8 @@ Coding, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting
 ![Golang](https://img.shields.io/badge/-Golang-blue)
 ![R](https://img.shields.io/badge/-R-276DC3)
 ![React](https://img.shields.io/badge/-React-61DAFB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+
 ---
 
 ## 🔗 Related Links:
