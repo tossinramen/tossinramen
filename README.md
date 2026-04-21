@@ -32,7 +32,3 @@ Coding, Trading on Polymarket, League of Legends, Teamfight Tactics, Sports Bett
 ![React](https://img.shields.io/badge/-React-61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 
----
-
-## 🔗 Related Links:
-- [LinkedIn](https://www.linkedin.com/in/tahsin-rahman-/)
