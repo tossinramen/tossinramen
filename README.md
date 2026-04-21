@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB)  ![Next.js](https://img.shields.io/badge/-Next.js-black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
 
 🎮 Hobbies:  
-Coding, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting  
+Coding, Trading on Polymarket, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting  
 
 📫 Contact:   
 [tahsinhd@gmail.com](mailto:tahsinhd@gmail.com)  
