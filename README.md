@@ -8,8 +8,8 @@
 🎮 Hobbies:  
 Coding, Trading on Polymarket, League of Legends, Teamfight Tactics, Sports Betting, Weightlifting  
 
-📫 Contact:   
-[tahsinhd@gmail.com](mailto:tahsinhd@gmail.com)  
+
+ 
 
 ---
 
